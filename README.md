@@ -33,7 +33,7 @@
  a 2014 test-suite for project gutenberg  
  table of contents  
  dedication  
-[chapter 1]( chapter 1 -- welcome aboard)  
+ [#chapter-1](chapter 1 -- welcome aboard)  
  chapter 2 -- the sections of the book  
  chapter 3 -- text "styling"  
  chapter 4 -- plain ascii versus unicode  
