@@ -30,7 +30,7 @@
 ## table of contents
 
 
- [a 2014 test-suite for project gutenberg](#a-2014-test-suite-for-project-gutenberg)  
+ [a 2014 test-suite for project gutenberg](#a-2014-test-suite<br>for-project-gutenberg)  
  [table of contents](#table-of-contents)  
  [dedication](#dedication)  
  [chapter 1 -- welcome aboard](#chapter-1)  
