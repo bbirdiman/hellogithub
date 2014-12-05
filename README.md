@@ -34,28 +34,28 @@
  table of contents  
  dedication  
  [chapter 1 -- welcome aboard](#chapter-1)  
- chapter 2 -- the sections of the book  
- chapter 3 -- text "styling"  
- chapter 4 -- plain ascii versus unicode  
- chapter 5 -- poetry and other silly things  
- chapter 6 -- tables in your e-texts  
- chapter 7 -- centered text  
- chapter 8 -- pictures in your book  
- chapter 9 -- footnotes and endnotes  
- chapter 10 -- hotlinks in your e-texts  
- chapter 11 -- hyphens and dashes  
- chapter 12 -- hyphenation stinks  
- chapter 13 -- unlucky number 13  
- chapter 14 -- two spaces after a sentence  
- chapter 15 -- multi-purpose block-quotes  
- chapter 16 -- the play is the thing  
- chapter 17 -- epigraphs and epitaphs  
- chapter 18 -- lists in your book  
+ chapter 2 -- the sections of the book(#chapter-2)  
+ chapter 3 -- text "styling"(#chapter-3)  
+ chapter 4 -- plain ascii versus unicode(#chapter-4)  
+ chapter 5 -- poetry and other silly things(#chapter-5)  
+ chapter 6 -- tables in your e-texts(#chapter-6)  
+ chapter 7 -- centered text(#chapter-7)  
+ chapter 8 -- pictures in your book(#chapter-8)  
+ chapter 9 -- footnotes and endnotes(#chapter-9)  
+ chapter 10 -- hotlinks in your e-texts(#chapter-10)  
+ chapter 11 -- hyphens and dashes(#chapter-11)  
+ chapter 12 -- hyphenation stinks(#chapter-12)  
+ chapter 13 -- unlucky number 13(#chapter-13)  
+ chapter 14 -- two spaces after a sentence(#chapter-14)  
+ chapter 15 -- multi-purpose block-quotes(#chapter-15)  
+ chapter 16 -- the play is the thing(#chapter-16)  
+ chapter 17 -- epigraphs and epitaphs(#chapter-17)  
+ chapter 18 -- lists in your book(#chapter-18)  
  a subsection of chapter 18  
  another subsection of chapter 18  
- chapter 19 -- the meta-data chapter  
- chapter 20 -- a demo for zen markup language  
- chapter 21 -- the end of this test-suite  
+ chapter 19 -- the meta-data chapter(#chapter-19)  
+ chapter 20 -- a demo for zen markup language(#chapter-20)  
+ chapter 21 -- the end of this test-suite(#chapter-21)  
  the notes section  
  meta-data  
 
