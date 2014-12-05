@@ -585,7 +585,7 @@ to actors, stage directions, that kind of stuff...
 
 ## chapter 17
 
- epigraphs and epitaphs
+## epigraphs and epitaphs
 
 
     _there's_ _an_ _old_ _proverb_ 
