@@ -1,8 +1,6 @@
-# a 2014 test-suite for project gutenberg
+# a 2014 test-suite<br>for project gutenberg
 
-## a document which contains the  
-## full range of features found  
-## in project gutenberg e-texts  
+## a document which contains the<br>full range of features found<br>in project gutenberg e-texts  
 
 ### by bowerbird intelligentleman  
 
@@ -35,7 +33,7 @@
  a 2014 test-suite for project gutenberg  
  table of contents  
  dedication  
- chapter 1 -- welcome aboard  
+[chapter 1]( chapter 1 -- welcome aboard)  
  chapter 2 -- the sections of the book  
  chapter 3 -- text "styling"  
  chapter 4 -- plain ascii versus unicode  
