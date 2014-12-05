@@ -1,24 +1,23 @@
-# a 2014 test-suite
-# for project gutenberg
+# a 2014 test-suite for project gutenberg
 
- a document which contains the
- full range of features found
- in project gutenberg e-texts
+## a document which contains the  
+## full range of features found  
+## in project gutenberg e-texts  
 
- by bowerbird intelligentleman
+### by bowerbird intelligentleman  
 
 
- greetings, earthling!
+ greetings, earthling!  
 
- this is a test-suite created for
- e-texts from project gutenberg,
- a 40-year-old volunteer effort to
- put public-domain literature online.
+ this is a test-suite created for  
+ e-texts from project gutenberg,  
+ a 40-year-old volunteer effort to  
+ put public-domain literature online.  
 
- please go visit their web-site for
- the latest news and information on
- usage conditions for their e-texts,
- volunteering for them, and more...
+ please go visit their web-site for  
+ the latest news and information on  
+ usage conditions for their e-texts,  
+ volunteering for them, and more...  
 
  http://gutenberg.org
 
@@ -71,7 +70,7 @@
 
  to michael hart
 
- for his bold vision
+ for his bold vision  
  and his persistence
 
 
