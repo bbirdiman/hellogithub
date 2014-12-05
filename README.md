@@ -32,7 +32,7 @@
 
  [a 2014 test-suite for project gutenberg](#a-2014-test-suite-for-project-gutenberg)  
  [table of contents](#table-of-contents)  
- [dedication](dedication)  
+ [dedication](#dedication)  
  [chapter 1 -- welcome aboard](#chapter-1)  
  [chapter 2 -- the sections of the book](#chapter-2)  
  [chapter 3 -- text "styling"](#chapter-3)  
@@ -51,12 +51,12 @@
  [chapter 16 -- the play is the thing](#chapter-16)  
  [chapter 17 -- epigraphs and epitaphs](#chapter-17)  
  [chapter 18 -- lists in your book](#chapter-18)  
- [a subsection of chapter 18](a-subsection-of-chapter 18)  
- [another subsection of chapter 18](another-subsection-of-chapter-18)  
+ [a subsection of chapter 18](#a-subsection-of-chapter 18)  
+ [another subsection of chapter 18](#another-subsection-of-chapter-18)  
  [chapter 19 -- the meta-data chapter](#chapter-19)  
  [chapter 20 -- a demo for zen markup language](#chapter-20)  
  [chapter 21 -- the end of this test-suite](#chapter-21)  
- [the notes section](#the notes section)  
+ [the notes section](#the-notes-section)  
  [meta-data](#meta-data)  
 
 
