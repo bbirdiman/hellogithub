@@ -1,4 +1,4 @@
- a 2014 test-suite
+# a 2014 test-suite
  for project gutenberg
 
  a document which contains the
@@ -30,37 +30,37 @@
 
 
 
- table of contents
+## table of contents
 
 
- a 2014 test-suite for project gutenberg
- table of contents
- dedication
- chapter 1 -- welcome aboard
- chapter 2 -- the sections of the book
- chapter 3 -- text "styling"
- chapter 4 -- plain ascii versus unicode
- chapter 5 -- poetry and other silly things
- chapter 6 -- tables in your e-texts
- chapter 7 -- centered text
- chapter 8 -- pictures in your book
- chapter 9 -- footnotes and endnotes
- chapter 10 -- hotlinks in your e-texts
- chapter 11 -- hyphens and dashes
- chapter 12 -- hyphenation stinks
- chapter 13 -- unlucky number 13
- chapter 14 -- two spaces after a sentence
- chapter 15 -- multi-purpose block-quotes
- chapter 16 -- the play is the thing
- chapter 17 -- epigraphs and epitaphs
- chapter 18 -- lists in your book
- a subsection of chapter 18
- another subsection of chapter 18
- chapter 19 -- the meta-data chapter
- chapter 20 -- a demo for zen markup language
- chapter 21 -- the end of this test-suite
- the notes section
- meta-data
+ a 2014 test-suite for project gutenberg  
+ table of contents  
+ dedication  
+ chapter 1 -- welcome aboard  
+ chapter 2 -- the sections of the book  
+ chapter 3 -- text "styling"  
+ chapter 4 -- plain ascii versus unicode  
+ chapter 5 -- poetry and other silly things  
+ chapter 6 -- tables in your e-texts  
+ chapter 7 -- centered text  
+ chapter 8 -- pictures in your book  
+ chapter 9 -- footnotes and endnotes  
+ chapter 10 -- hotlinks in your e-texts  
+ chapter 11 -- hyphens and dashes  
+ chapter 12 -- hyphenation stinks  
+ chapter 13 -- unlucky number 13  
+ chapter 14 -- two spaces after a sentence  
+ chapter 15 -- multi-purpose block-quotes  
+ chapter 16 -- the play is the thing  
+ chapter 17 -- epigraphs and epitaphs  
+ chapter 18 -- lists in your book  
+ a subsection of chapter 18  
+ another subsection of chapter 18  
+ chapter 19 -- the meta-data chapter  
+ chapter 20 -- a demo for zen markup language  
+ chapter 21 -- the end of this test-suite  
+ the notes section  
+ meta-data  
 
 
 
@@ -78,7 +78,7 @@
 
 
 
- chapter 1
+## chapter 1
 
  welcome aboard
 
@@ -154,7 +154,7 @@ then link _back_ to the table of contents...
 
 
 
- chapter 3
+## chapter 3
 
  text "styling"
 
@@ -183,7 +183,7 @@ styled text, so your systems must be able to do so.
 
 
 
- chapter 4
+## chapter 4
 
  plain ascii versus unicode
 
@@ -198,7 +198,7 @@ without question be able to handle unicode.
 
 
 
- chapter 5
+## chapter 5
 
  poetry and other silly things
 
@@ -262,7 +262,7 @@ try to make the page-break occur between the verses...
 
 
 
- chapter 6
+## chapter 6
 
  tables in your e-texts
 
@@ -283,7 +283,7 @@ not really big and hairy ones, just simple ones.
 
 
 
- chapter 7
+## chapter 7
 
  centered text
 
@@ -298,7 +298,7 @@ so your system should be able to do that.
 
 
 
- chapter 8
+## chapter 8
 
  pictures in your book
 
@@ -329,7 +329,7 @@ or conversation?"
 
 
 
- chapter 9
+## chapter 9
 
  footnotes and endnotes
 
@@ -345,7 +345,7 @@ how it might do that is up to you, captain.
 
 
 
- chapter 10
+## chapter 10
 
  hotlinks in your e-texts
 
@@ -387,7 +387,7 @@ to "chapter 2" here in this paragraph too.)
 
 
 
- chapter 11
+## chapter 11
 
  hyphens and dashes
 
@@ -434,7 +434,7 @@ into a proper em-dash, if the user chooses that option.
 
 
 
- chapter 12
+## chapter 12
 
  hyphenation stinks
 
@@ -447,7 +447,7 @@ so _turn_ _hyphenation_ _off_ when you make an e-book.
 
 
 
- chapter 13
+## chapter 13
 
  unlucky number 13
 
@@ -458,7 +458,7 @@ there is no 13th floor in most buildings.
 
 
 
- chapter 14
+## chapter 14
 
  two spaces after a sentence
 
@@ -490,7 +490,7 @@ so, if you're _making_ an e-book, use just one space.
 
 
 
- chapter 15
+## chapter 15
 
  multi-purpose block-quotes
 
@@ -539,7 +539,7 @@ any special cases merit their own class.
 
 
 
- chapter 16
+## chapter 16
 
  the play is the thing
 
@@ -583,7 +583,7 @@ to actors, stage directions, that kind of stuff...
 
 
 
- chapter 17
+## chapter 17
 
  epigraphs and epitaphs
 
@@ -602,7 +602,7 @@ so you wanna be able to handle that kind of thing.[4]
 
 
 
- chapter 18
+## chapter 18
 
  lists in your book
 
@@ -677,7 +677,7 @@ still gotta be able to handle lists...
 
 
 
- another subsection of chapter 18
+## another subsection of chapter 18
 
 
 here's another example of a list:
@@ -702,7 +702,7 @@ still gotta be able to handle lists...
 
 
 
- chapter 19
+## chapter 19
 
  the meta-data chapter
 
@@ -724,7 +724,7 @@ where it belongs, after the "real" data.
 
 
 
- chapter 20
+## chapter 20
 
  a demo for zen markup language
 
@@ -748,7 +748,7 @@ without the difficulty of heavy markup languages.
 
 
 
- chapter 21
+## chapter 21
 
  the end of this test-suite
 
@@ -779,7 +779,7 @@ the end.
 
 
 
- the notes section
+## the notes section
 
 
 here are the footnotes/endnotes.
@@ -837,7 +837,7 @@ it's going to go on and on and on.
 
 
 
- meta-data
+## meta-data
 
 
 here's the meta-data...
