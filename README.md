@@ -1,5 +1,5 @@
 # a 2014 test-suite
- for project gutenberg
+# for project gutenberg
 
  a document which contains the
  full range of features found
@@ -66,7 +66,7 @@
 
 
 
- dedication
+## dedication
 
 
  to michael hart
@@ -80,7 +80,7 @@
 
 ## chapter 1
 
- welcome aboard
+## welcome aboard
 
 
 welcome!
@@ -123,9 +123,9 @@ do please let me know immediately. thank you.
 
 
 
- chapter 2
+## chapter 2
 
- the sections of the book
+## the sections of the book
 
 
 first, you should be able to handle
@@ -156,7 +156,7 @@ then link _back_ to the table of contents...
 
 ## chapter 3
 
- text "styling"
+## text "styling"
 
 
 project gutenberg was born a very long time ago,
@@ -185,7 +185,7 @@ styled text, so your systems must be able to do so.
 
 ## chapter 4
 
- plain ascii versus unicode
+## plain ascii versus unicode
 
 
 most english e-texts in the library can be
@@ -200,7 +200,7 @@ without question be able to handle unicode.
 
 ## chapter 5
 
- poetry and other silly things
+## poetry and other silly things
 
 
 many of the e-texts contain *poetry,*
@@ -264,7 +264,7 @@ try to make the page-break occur between the verses...
 
 ## chapter 6
 
- tables in your e-texts
+## tables in your e-texts
 
 
 there aren't a whole lot of tables in the e-texts
@@ -285,7 +285,7 @@ not really big and hairy ones, just simple ones.
 
 ## chapter 7
 
- centered text
+## centered text
 
 
 sometimes, for one reason or another,
@@ -300,7 +300,7 @@ so your system should be able to do that.
 
 ## chapter 8
 
- pictures in your book
+## pictures in your book
 
 
 most of the p.g. e-texts are text-only.
@@ -331,7 +331,7 @@ or conversation?"
 
 ## chapter 9
 
- footnotes and endnotes
+## footnotes and endnotes
 
 
 some of the e-texts have footnotes.[1]
@@ -347,7 +347,7 @@ how it might do that is up to you, captain.
 
 ## chapter 10
 
- hotlinks in your e-texts
+## hotlinks in your e-texts
 
 
 remember how, in chapter 2, we said
@@ -389,7 +389,7 @@ to "chapter 2" here in this paragraph too.)
 
 ## chapter 11
 
- hyphens and dashes
+## hyphens and dashes
 
 
 i use a hyphen between "e" and "text" in "e-text".
@@ -436,7 +436,7 @@ into a proper em-dash, if the user chooses that option.
 
 ## chapter 12
 
- hyphenation stinks
+## hyphenation stinks
 
 
 hyphenation is another thing that messes up e-book
@@ -449,7 +449,7 @@ so _turn_ _hyphenation_ _off_ when you make an e-book.
 
 ## chapter 13
 
- unlucky number 13
+## unlucky number 13
 
 
 there is no 13th floor in most buildings.
@@ -460,7 +460,7 @@ there is no 13th floor in most buildings.
 
 ## chapter 14
 
- two spaces after a sentence
+## two spaces after a sentence
 
 
 back in the old typewriter days, students were
@@ -492,7 +492,7 @@ so, if you're _making_ an e-book, use just one space.
 
 ## chapter 15
 
- multi-purpose block-quotes
+## multi-purpose block-quotes
 
 
 sometimes you want to quote a whole block of stuff
@@ -541,7 +541,7 @@ any special cases merit their own class.
 
 ## chapter 16
 
- the play is the thing
+## the play is the thing
 
 
 there are plays in the library.
@@ -604,7 +604,7 @@ so you wanna be able to handle that kind of thing.[4]
 
 ## chapter 18
 
- lists in your book
+## lists in your book
 
 
 i like lists. here's a list:
@@ -625,7 +625,7 @@ gotta be able to handle lists...
 
 
 
- a subsection of chapter 18
+## a subsection of chapter 18
 
 
 sometimes you want a numbered list...
@@ -704,7 +704,7 @@ still gotta be able to handle lists...
 
 ## chapter 19
 
- the meta-data chapter
+## the meta-data chapter
 
 
 a lot of people think "meta-data"
@@ -726,7 +726,7 @@ where it belongs, after the "real" data.
 
 ## chapter 20
 
- a demo for zen markup language
+## a demo for zen markup language
 
 
 this test-suite document is a demonstration
@@ -750,7 +750,7 @@ without the difficulty of heavy markup languages.
 
 ## chapter 21
 
- the end of this test-suite
+## the end of this test-suite
 
 
 we hope you've enjoyed this test-suite document.
